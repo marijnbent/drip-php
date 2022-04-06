@@ -1,5 +1,5 @@
 {
-  "name": "dripemail/drip-php",
+  "name": "marijnbent/drip-php8",
   "description": "An object-oriented PHP wrapper for Drip's REST API v2.0",
   "homepage": "https://github.com/DripEmail/drip-php",
   "license": "MIT",
